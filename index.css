@@ -70,7 +70,8 @@ margin: 0;
 }
 
 .scrolled{
-    background-color: rgb(105, 50, 11);
+    background-color: rgba(105, 50, 11, 0.4);
+    backdrop-filter: blur(8px);
     box-shadow: 2px 2px 10px;
 }
 .navbar-nav{
